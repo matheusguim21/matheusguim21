@@ -1,7 +1,8 @@
 ### Olá! Sou o Matheus Guimarães 👋
 - Desenvolvedor Front-End, e Mobile
-- Bacharelando em Ciência da Computação, atualmante no 7° período
-- 
+- Bacharelando em Ciência da Computação, atualmante no 7° período.
+- Estudando React Native e Typescript
+
 <!--
 **matheusguim21/matheusguim21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
