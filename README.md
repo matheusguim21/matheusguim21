@@ -1,5 +1,5 @@
 ### Olá! Sou o Matheus Guimarães 👋
-- Desenvolvedor FullStack, e Mobile
+- Desenvolvedor FullStack e Mobile
 - Bacharelando em Ciência da Computação, atualmante no 7° período.
 - Estudando React Native, Typescript e NodeJs
 
