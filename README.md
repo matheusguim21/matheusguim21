@@ -1,7 +1,8 @@
 ### Olá! Sou o Matheus Guimarães 👋
 - Desenvolvedor FullStack Mobile
-- Bacharelando em Ciência da Computação, atualmante no 8° período.
-- Estudando React Native, Typescript e NodeJs e Java
+- Bacharelando em Ciência da Computação, atualmante no 8° e último período.
+- Desenvolvendo em  React Native, Typescript e NodeJs.
+- Estudando Java
 
 <!--
 **matheusguim21/matheusguim21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +32,8 @@ Here are some ideas to get you started:
   
   
    <img align="center" alt="Matheus-React Native" height="45" width="65" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp">
-<img align="center" alt="Matheus-Node" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+   <img align="center" alt="Matheus-Node" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+   <img align="center" alt="Matheus-Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Matheus-Mysql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 <br>
