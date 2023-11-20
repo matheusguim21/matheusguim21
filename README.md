@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusguim21&show_icons=true&theme=transparent)](https://github.com/matheusguim21/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusguim21&show_icons=true&theme=transparent) ](https://github.com/matheusguim21/github-readme-stats)
 
-<div style="display: inline_block"><br>
+<div style="display: flex; justify-content:space-between; width:100%"><br>
   
   <img align="center" alt="Matheus-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
