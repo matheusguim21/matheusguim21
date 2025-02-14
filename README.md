@@ -1,8 +1,8 @@
 ### Olá! Sou o Matheus Guimarães 👋
 - Desenvolvedor FullStack Mobile
 - Graduado em Ciência da Computação.
-- Desenvolvendo em  React Native, Typescript e NodeJs.
-- Estudando Java e Spring Framework.
+- React Native, Typescript , NodeJs ,Java e Spring Framework.
+- Estudando J.
 
 <!--
 **matheusguim21/matheusguim21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
